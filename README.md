@@ -1,3 +1,4 @@
+This script crawls websites upon input by the user and looks for open redirect links. 
 How to Use:
 Install Required Libraries:
 
