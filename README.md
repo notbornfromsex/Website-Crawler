@@ -6,7 +6,7 @@ pip install requests beautifulsoup4
 Run the Script:
 
 Save the script as crawler.py, and run it:
-bash
+
 
 python crawler.py
 Input the Website URL:
